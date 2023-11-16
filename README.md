@@ -12,8 +12,8 @@ The best representative member of the family is then defined as the most closely
 In practice, phylorep returns the tip separated from the other tree tips by the smallest phylogenetic distance.
 
 ### Requirements
-To be executed, phylorep is a Python3 script and requires the Python libraries [pandas](https://pandas.pydata.org/) and [biopython](https://biopython.org/) to be installed.
-The libraries sys, argparse and itertools (included in most Python distributions) must also be installed.
+phylorep is a Python3 script and requires the Python libraries [pandas](https://pandas.pydata.org/) and [biopython](https://biopython.org/) to be installed.
+The libraries [sys](https://docs.python.org/3/library/sys.html), [argparse](https://docs.python.org/3/library/argparse.html) and [itertools](https://docs.python.org/3/library/itertools.html) (included in most Python distributions) must also be installed.
 
 ### Example run
 ```
