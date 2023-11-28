@@ -1,6 +1,6 @@
 # phylorep
 
-[![DOI](https://zenodo.org/badge/319268792.svg)](https://zenodo.org/doi/10.5281/zenodo.5642697)
+[![DOI](https://zenodo.org/badge/719473089.svg)](https://zenodo.org/doi/10.5281/zenodo.10142122)
 
 Simple script retrieving the ID of the best representative member of a gene/protein family, using the family phylogenetic tree as an input.
 
